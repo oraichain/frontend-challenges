@@ -1,12 +1,11 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/3603793/84830477-d0091980-afff-11ea-87fc-c72b4d7d5e02.png" alt="Challenge Accepted" width="200"></p>
+![Banner!](https://github.com/oraichain/orai/raw/master/orai/doc/logo-full-h-light.png#gh-light-mode-only)
+![Banner!](https://github.com/oraichain/orai/raw/master/orai/doc/logo-full-h-dark.png#gh-dark-mode-only)
 
 # Front-end Challenges
 
 > Listing some playful open-source's challenges of jobs to test your knowledge
 
-[![license](https://github.com/oraichain/orai/raw/master/orai/doc/logo-full-h-light.png#gh-light-mode-only)](/license)
-[![license](https://github.com/oraichain/orai/raw/master/orai/doc/logo-full-h-dark.png#gh-dark-mode-only)](/license)
-
+[![license](https://img.shields.io/github/license/felipefialho/frontend-challenges.svg)](/license)
 [![GitHub contributors](https://img.shields.io/github/contributors/felipefialho/frontend-challenges.svg)](https://github.com/felipefialho/frontend-challenges/graphs/contributors)
 
 The main objective of repository is testing your knowledge using real jobs challenge. :smiley_cat:
