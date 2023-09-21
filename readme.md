@@ -5,12 +5,9 @@
 
 > Listing some playful open-source's challenges of jobs to test your knowledge
 
-[![license](https://img.shields.io/github/license/felipefialho/frontend-challenges.svg)](/license)
 [![GitHub contributors](https://img.shields.io/github/contributors/felipefialho/frontend-challenges.svg)](https://github.com/felipefialho/frontend-challenges/graphs/contributors)
 
 The main objective of repository is testing your knowledge using real jobs challenge. :smiley_cat:
-
-Follows some playful (just open-source! :warning:) challenges of jobs.
 
 | Stack                                         | Challenge                                                                                     |
 | --------------------------------------------- | --------------------------------------------------------------------------------------------- |
@@ -43,7 +40,3 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | HTML, Preprocessor CSS & Framework JS         | [Code →](https://github.com/Wiredcraft/test-frontend)                                         |
 | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/yodlr/frontend-code-challenge)                                    |
 | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/ZEPL/front-end-challenge)                                         |
-
-## License
-
-[MIT](/license) &copy; Oraichain
