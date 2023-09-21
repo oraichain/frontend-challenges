@@ -35,8 +35,8 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | React, CSS, JS & Design                       | [Code →](https://github.com/Significa/frontend-challenge)                                     |
 | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/sitepoint/frontend-test)                                          |
 | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/SnowdogApps/front-end-recruitment-test)                           |
-| React                                         | [Code →](https://github.com/storecast/frontend-challenge)                                     |
-| React                                         | [Code →](https://github.com/StreamCo/react-coding-challenge)                                  |
+| React & Redux                                 | [Code →](https://github.com/storecast/frontend-challenge)                                     |
+| React & Redux                                 | [Code →](https://github.com/StreamCo/react-coding-challenge)                                  |
 | React, Redux, Preprocessor CSS & Tests        | [Code →](https://github.com/Travix-International/frontend-tech-test)                          |
 | Generalist Web Platform                       | [Code →](https://github.com/blongg/vai-code-challenges)                                       |
 | React, Typescript, Next.js                    | [Code →](https://github.com/volvo-cars/god-frontend-code-test)                                |
